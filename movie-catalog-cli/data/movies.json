@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "releaseYear": "2020",
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "releaseYear": "1994",
+    "genre": "Drama"
+  },
+  {
+    "title": "frozen 2",
+    "director": "Chris Buck, Jennifer Lee",
+    "releaseYear": "2013",
+    "genre": "musical fantasy"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "director": "James Gunn",
+    "releaseYear": "2017",
+    "genre": "Action, Adventure, Comedy"
+  }
+]
